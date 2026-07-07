@@ -7,26 +7,28 @@ function Hero() {
       <div className="hero-text">
         <h1>Emmanuel Adjei Baffour</h1>
 
-<h3>Junior Data Analyst</h3>
+<h2>Junior Data Analyst | Accounting Professional</h2>
 
 <h4 className="subtitle">
-  Power BI • SQL • Excel • Business Intelligence
+  📍 Based in Ghana | Open to Relocation across Europe
 </h4>
 
-<p>
-  I am a Junior Data Analyst with a background in Accounting and
-  Operations Management. I build interactive Power BI dashboards,
-  analyze data using Excel and SQL, and help organizations make
-  smarter, data-driven decisions.
+<p className="hero-description">
+  I am a Junior Data Analyst with a background in Accounting and business
+  operations. I transform raw data into actionable insights using Power BI,
+  SQL, Excel, Python, and Google Sheets to support smarter business
+  decisions and improve operational performance.
 </p>
-        <div className="hero-buttons">
-          <a
-  href="/files/Emmanuel_Adjei_Baffour_CV.pdf"
-  download
-  className="download-btn"
->
-  Download CV
-</a>
+
+<div className="hero-buttons">
+  <a href="#projects" className="btn">
+    View Projects
+  </a>
+
+  <a href="/Emmanuel_Adjei_Baffour_CV.pdf" className="btn btn-outline" download>
+    Download cv
+    </a>
+
           <a href="#contact" className="contact-btn">
   Contact Me
 </a>

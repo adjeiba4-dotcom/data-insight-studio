@@ -41,6 +41,21 @@ body {
     margin-bottom: 20px;
 }
 
+.subtitle {
+    font-size: 1.1rem;
+    color: #38bdf8;
+    margin: 12px 0 20px;
+    font-weight: 600;
+}
+
+.hero-description {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #d1d5db;
+    margin-bottom: 30px;
+    max-width: 650px;
+}
+
 .hero-text p {
     font-size: 1.1rem;
     line-height: 1.8;
